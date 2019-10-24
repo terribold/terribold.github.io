@@ -2,7 +2,7 @@ $gray-1: #f9f9f9 !default;
 $gray-2: #e5e5e5 !default;
 $gray-3: #ccc !default;
 $gray-4: #767676 !default;
-$gray-5: #515151 !default;
+$gray-5: #544943 !default; /* 515151 */
 $gray-6: #313131 !default;
 
 $red: #ac4142 !default;
@@ -19,7 +19,7 @@ $root-line-height: 1.5 !default;
 
 $body-color: $gray-5 !default;
 $body-muted: $gray-4 !default;
-$body-bg: #fff !default;
+$body-bg: #ece4d8 !default; /* fff */
 $link-color: $blue !default;
 $heading-color: $gray-6 !default;
 
@@ -45,8 +45,8 @@ $code-font-family: Menlo, Monaco, "Courier New", monospace !default;
 $code-color: #bf616a !default;
 
 // Hyde theming
-$sidebar-bg-color: #202020 !default;
-$sidebar-fg-color: white !default;
+$sidebar-bg-color: #7c334f !default; /* #202020 */
+$sidebar-fg-color: #ece4d8 !default; /* white */
 $sidebar-sticky: true !default;
 $layout-reverse: false !default;
 
