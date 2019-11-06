@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            My title
-tagline:          'A Jekyll site'
-description:      'No one said anything about dependencies!'
+title:            The Ravings of Terribold the Mad
+# tagline:          'A Jekyll site'
+description:      'A collection of rules and notes for Phandalin Phried'
 # url:              https://fongandrew.github.io
 # baseurl:          '/hydeout'
                   # the optional subpath of your site, e.g. "/blog"
