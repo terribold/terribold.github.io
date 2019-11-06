@@ -46,6 +46,9 @@ body {
     margin-top: 0;
     margin-bottom: $heading-spacing;
 
+    small {
+      font-size: 1.5rem;
+    }
     .back-arrow { margin-right: 0.5rem; }
   }
 }
@@ -111,6 +114,10 @@ body {
   // Bigger title
   .site-title {
     font-size: 3.25rem;
+    small {
+      font-size: 1.5rem;
+      display: block;
+    }
   }
 
   // Show secondary nav content + lead
