@@ -13,8 +13,9 @@ $cyan: #75b5aa !default;
 $blue: #24426C !default; /* 268bd2 */
 $brown: #8f5536 !default;
 
-$root-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
-$root-font-size: 1rem !default;
+$root-font-family: Georgia, Cambria, "Times New Roman", Times, serif;
+$secondary-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif !default;
+$root-font-size: 0.875rem !default;
 $root-line-height: 1.5 !default;
 
 $body-color: $gray-6 !default;
@@ -32,7 +33,7 @@ $section-spacing: 2rem !default;
 $sidebar-width: 18rem !default;
 
 $large-breakpoint: 49rem !default;
-$large-font-size: 1.25rem !default;
+$large-font-size: 0.875rem !default;
 
 $box-shadow-size: 1px !default;
 $box-shadow-opacity: 0.16 !default;
