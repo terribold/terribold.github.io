@@ -3,9 +3,11 @@ title: "Scribing a scroll (downtime activity)"
 layout: post
 excerpt: "With time and patience, a spellcaster can transfer a spell to a scroll, creating a spell scroll."
 last_modified_at: 2019-11-07
+categories:
+  - Downtime activities
 tags:
   - XGE
-  - downtime activities
+  - Downtime activities
   - rules
   - homebrew
 ---

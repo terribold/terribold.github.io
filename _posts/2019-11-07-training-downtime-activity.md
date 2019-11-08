@@ -3,9 +3,11 @@ title: "Training (downtime activity)"
 layout: post
 excerpt: "Given enough free time and the services of an instructor, a character can learn a language or pick up proficiency with a tool."
 last_modified_at: 2019-11-07
+categories:
+  - Downtime activities
 tags:
   - XGE
-  - downtime activities
+  - Downtime activities
   - rules
   - homebrew
 ---

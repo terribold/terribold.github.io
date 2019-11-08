@@ -3,9 +3,11 @@ title: "Gambling (downtime activity)"
 layout: post
 excerpt: "Games of chance are away to make a fortune—and perhaps a better way to lose one."
 last_modified_at: 2019-11-06
+categories:
+  - Downtime activities
 tags:
   - XGE
-  - downtime activities
+  - Downtime activities
   - rules
   - homebrew
 ---

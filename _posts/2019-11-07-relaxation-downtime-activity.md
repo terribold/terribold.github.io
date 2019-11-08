@@ -3,9 +3,11 @@ title: "Relaxation (downtime activity)"
 layout: post
 excerpt: "Sometimes the best thing to do between adventures is relax. Whether a character wants a hard-earned vacation or needs to recover from injuries, relaxation is the ideal option for adventurers who need a break."
 last_modified_at: 2019-11-07
+categories:
+  - Downtime activities
 tags:
   - XGE
-  - downtime activities
+  - Downtime activities
   - rules
   - homebrew
 ---

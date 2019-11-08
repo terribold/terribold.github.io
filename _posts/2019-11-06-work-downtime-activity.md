@@ -3,9 +3,11 @@ title: "Work (downtime activity)"
 layout: post
 excerpt: "When all else fails, an adventurer can turn to an honest trade to earn a living."
 last_modified_at: 2019-11-06
+categories:
+  - Downtime activities
 tags:
   - XGE
-  - downtime activities
+  - Downtime activities
   - rules
   - homebrew
 ---
