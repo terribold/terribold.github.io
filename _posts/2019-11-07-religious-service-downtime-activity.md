@@ -1,5 +1,5 @@
 ---
-title: “Religious service (downtime activity)"
+title: "Religious service (downtime activity)"
 layout: post
 excerpt: "Characters with a religious bent might want to spend downtime in service to a temple or shrine, either by attending rites or by proselytizing in the community."
 last_modified_at: 2019-11-07
